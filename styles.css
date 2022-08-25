@@ -1,0 +1,36 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: grey  ;
+font-family: 'Lobster', cursive;
+}
+
+p {
+  display: inline-block;
+  margin: 4% 10%;
+  color: #FF0063;
+  font-size: 2rem;
+
+}
+
+h1 {
+  margin: 2%;
+  font-size: 7rem;
+  color:#FF0063;
+  display: inline-block;
+
+}
+.container {
+  display: inline-block;
+
+}
+.winning-Player1,.winning-Player2{
+  display: contents;
+  width: 100px;
+}
+img {
+  width: 200px;
+
+}
